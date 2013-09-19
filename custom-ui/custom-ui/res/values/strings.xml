@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialAuth - Custom UI</string>
+    <string-array name="facebook_array">
+    	<item>User Profile</item>
+    	<item>Post Message</item>
+    	<item>Friends</item>
+    	<item>Get Feeds</item>
+    	<item>Upload Image</item>
+    	<item>Get Albums</item>
+    	<item>Update Story</item>
+    	<item>Close Dialog</item>
+    </string-array>
+    <string-array name="drawable_array">
+    	<item>share</item>
+    	<item>profile</item>
+    	<item>contacts</item>
+    	<item>feeds</item>
+    	<item>image</item>
+    	<item>albums</item>
+    	<item>notepad</item>
+    	<item>close</item>
+    </string-array>
+</resources>
